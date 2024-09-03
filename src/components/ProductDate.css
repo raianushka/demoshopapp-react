@@ -1,0 +1,26 @@
+.product-date{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 12px;
+    width:60px;
+}
+.product-date__day{
+    font-weight:bold;
+    font-size:16px ;
+    color: white;
+}
+.product-date__month{
+    font-weight: lighter;
+    font-size: 12px;
+    color: white;
+}
+.product-date__year{
+    font-weight: 500;
+    font-size: 14px;
+    color: white;
+}

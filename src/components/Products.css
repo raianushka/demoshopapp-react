@@ -1,0 +1,13 @@
+.products{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 10px;
+    background-color: beige;
+    min-width:300px;
+    width:50%;
+    margin:16px auto;
+    overflow: hidden;
+}
